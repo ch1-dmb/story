@@ -1,3 +1,0 @@
-Text1 test
-
-git rm --cached -r .
